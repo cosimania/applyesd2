@@ -27,4 +27,14 @@ export class DashboardPage {
     this.navCtrl.push("ConfirmationPage");
   }
 
+  planning()
+  {
+    this.navCtrl.push("PlanningPage");
+  }
+
+  rules()
+  {
+    this.navCtrl.push("RulesPage");
+  }
+
 }

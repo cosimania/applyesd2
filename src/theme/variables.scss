@@ -22,7 +22,13 @@ $app-direction: ltr;
 // To view all the possible Ionic variables, see:
 // http://ionicframework.com/docs/theming/overriding-ionic-variables/
 
+$background-color: #2E525D;
+$text-color: #ffffff;
+$list-ios-header-color: #59B9A8;
 
+ion-title {
+  text-align: center;
+}
 
 
 // Named Color Variables
